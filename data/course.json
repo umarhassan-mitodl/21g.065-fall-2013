@@ -33,6 +33,7 @@
     "website": "21g-065-japanese-literature-and-cinema-fall-2013"
   },
   "course_title": "Japanese Literature and Cinema",
+  "hide_download": true,
   "course_description": "This course surveys both cinematic and literary representations of diverse eras and aspects of Japanese culture such as the classical era, the samurai age, wartime Japan and the atomic bombings, social change in the postwar period, and the appropriation of foreign cultural themes, with an emphasis on the modern period. Directors include Akira Kurosawa and Hiroshi Teshigahara. Authors include Kobo Abe and Yukio Mishima. Films shown have subtitles in English. Taught in English.\n",
   "department_numbers": [
     "21G",
@@ -44,6 +45,7 @@
     "content": "7d731eae-b1a0-d78b-6f5d-9eff42433b21",
     "website": "21g-065-japanese-literature-and-cinema-fall-2013"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Presentation Assignments",
     "Written Assignments"

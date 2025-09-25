@@ -44,21 +44,21 @@ Film Studies: Collaborative Creativity, Transmedia, and the Social
 
 Condry, Ian. Chapters 1–2 in *The Soul of Anime: Collaborative Creativity and Japan's Media Success Story*. Duke University Press Books, 2013. ISBN: 9780822353942. 
 
-Jenkins, Henry. "{{% resource_link "034f7d45-0352-4928-83da-fa97cb199510" "Seven Core Principles of Transmedia Storytelling" %}}." (2009)
+Jenkins, Henry. "[Seven Core Principles of Transmedia Storytelling](http://henryjenkins.org/2009/12/the_revenge_of_the_origami_uni.html)." (2009)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
 Rakugo: The Art of Storytelling
 {{< tdclose >}}{{< tdopen >}}
-Brau, Lorie. "Rakugo: The Comic Storytelling Art." In *Rakugo: Performing Comedy and Cultural Heritage in Contemporary Tokyo*. Lexington Books, 2008. ISBN: 9780739122464. \[Preview with {{% resource_link "feb304fc-2f28-44ff-afa2-8463ca82ad0b" "Google Books" %}}\]
+Brau, Lorie. "Rakugo: The Comic Storytelling Art." In *Rakugo: Performing Comedy and Cultural Heritage in Contemporary Tokyo*. Lexington Books, 2008. ISBN: 9780739122464. \[Preview with [Google Books](http://books.google.com/books?id=TUJ7AAAAQBAJ&pg=PAfrontcover)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
 Discuss Readings and Films
 {{< tdclose >}}{{< tdopen >}}
 
-Lee, Soo-Im. "Koreans—A Mistreated Minority in Japan: Hopes and Challenges for Japan's True Internationalization." In *Transcultural Japan: At the Borderlands of Race, Gender and Identity*. Routledge, 2008. ISBN: 9780415368902. \[Preview with {{% resource_link "a1d7bd66-8adc-48bc-a2bb-1d55d5ce9b24" "Google Books" %}}\]
+Lee, Soo-Im. "Koreans—A Mistreated Minority in Japan: Hopes and Challenges for Japan's True Internationalization." In *Transcultural Japan: At the Borderlands of Race, Gender and Identity*. Routledge, 2008. ISBN: 9780415368902. \[Preview with [Google Books](http://books.google.com/books?id=ZgWAAgAAQBAJ&pg=PAfrontcover)\]
 
 \[Kirino\] Ongoing
 
@@ -96,7 +96,7 @@ No readings.
 Discuss Readings and Films
 {{< tdclose >}}{{< tdopen >}}
 
-Bolitho, Harold. {{% resource_link "59fadd74-db9a-407d-9a08-1a8dab197c4d" "\"The Myth of the Samurai.\" (PDF)" %}} 1984.
+Bolitho, Harold. ["The Myth of the Samurai." (PDF)](https://web.archive.org/web/20210413070252/https://alexy.asian.lsa.umich.edu/courses/readings/Bolitho_Myth%20of%20the%20Samurai.pdf) 1984.
 
 Tsunetomo, Yamamoto. *Hagakure: The Book of the Samurai*. Shambhala, 2012. ISBN: 9781590309858.
 
@@ -116,13 +116,13 @@ Discuss Readings and Films
 
 Kawabata, Yasunari. *The Izu Dancer and Other Stories*. Tuttle Publishing, 2001. ISBN: 9780804811415.
 
-Condry, Ian. "{{% resource_link "2f360993-fa21-4e75-abd0-7863531e0b80" "Post-3/11 Japan and the Radical Recontextualization of Value: Music, Social Media, and End-Around Strategies for Cultural Action" %}}." *International Journal of Japanese Sociology* 20, no. 1 (2011): 4–17.
+Condry, Ian. "[Post-3/11 Japan and the Radical Recontextualization of Value: Music, Social Media, and End-Around Strategies for Cultural Action](http://dx.doi.org/10.1111/j.1475-6781.2011.01144.x)." *International Journal of Japanese Sociology* 20, no. 1 (2011): 4–17.
 
  Murakami, Haruki. "UFO in Kushiro." In *After the Quake*. Vintage, 2003. ISBN: 9780375713279.
 
 Shikibu, Murasaki. *The Tale of Genji*. Penguin Classics, 2006. ISBN: 9780143039495.
 
-U, Mel. "'{{% resource_link "54bd2a1a-bbdb-42ed-bcaf-00e629af4e7c" "Onnagata\" by Yukio Mishima" %}}." *The Reading Life*. August 30, 2011.
+U, Mel. "'[Onnagata" by Yukio Mishima](http://rereadinglives.blogspot.in/2011/08/onnagata-by-yukio-mishima.html)." *The Reading Life*. August 30, 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
